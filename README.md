@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RanFR&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanFR&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanFR&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=RanFR&show_icons=true&theme=light&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanFR&layout=compact&theme=light&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanFR&theme=light&hide_border=true)
 
 </div>
 
