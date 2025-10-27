@@ -28,31 +28,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RanFR&show_icons=true&theme=light&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanFR&layout=compact&theme=light&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanFR&theme=light&hide_border=true)
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://ranfr.github.io"><img src="https://img.shields.io/badge/Website-ranfr.github.io-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <!-- <a href="mailto:ranfr@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-  <a href="https://scholar.google.com/citations?user=XXXXXX"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-</p>
+<a href="https://ranfr.github.io"><img src="https://img.shields.io/badge/Website-ranfr.github.io-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
----
-
-### ✨ Visitors & Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanFR&label=Profile%20views&color=0e75b6&style=flat" alt="RanFR" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RanFR&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+<a href="https://scholar.google.com/citations?user=XXXXXX"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
